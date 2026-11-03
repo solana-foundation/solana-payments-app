@@ -25,7 +25,7 @@
     },
     "devDependencies": {
         "@types/aws-lambda": "^8.10.101",
-        "esbuild": "^0.17.18",
+        "esbuild": "^0.25.0",
         "eslint-config-custom": "*",
         "serverless": "^3.33.0",
         "serverless-esbuild": "^1.43.1",
