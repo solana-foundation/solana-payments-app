@@ -35,7 +35,7 @@
         "@types/aws-lambda": "^8.10.101",
         "@types/jest": "^29.5.1",
         "@types/node": "^18.16.1",
-        "esbuild": "^0.17.18",
+        "esbuild": "^0.25.0",
         "eslint-config-custom": "*",
         "jest": "^27.0.0",
         "jest-mock-extended": "2.0.4",
